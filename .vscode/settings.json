@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "markdown.extension.list.indentationSize": "inherit",
+    "editor.comments.insertSpace": true,
+    "editor.insertSpaces": false
+}
